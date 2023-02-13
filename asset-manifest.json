@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce76ceae.css",
+    "main.js": "/static/js/main.a941a580.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/271_italian_pizza_106.webp": "/static/media/271_italian_pizza_106.0d9b91b5288708c775ef.webp",
+    "index.html": "/index.html",
+    "main.ce76ceae.css.map": "/static/css/main.ce76ceae.css.map",
+    "main.a941a580.js.map": "/static/js/main.a941a580.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce76ceae.css",
+    "static/js/main.a941a580.js"
+  ]
+}

@@ -1,11 +1,25 @@
 {
-  "main.css": "/main.css",
-  "main.js": "/main.js",
-  "131.js": "/131.js",
-  "assets/img/271_italian_pizza_106.webp": "/assets/img/0d9b91b5288708c775ef.webp",
-  "favicon.ico": "/favicon.ico",
-  "index.html": "/index.html",
-  "main.css.map": "/main.css.map",
-  "main.js.map": "/main.js.map",
-  "131.js.map": "/131.js.map"
+  "short_name": "RestoBau",
+  "name": "Restaurant Menu",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#ffffff"
 }
